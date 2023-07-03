@@ -1,0 +1,35 @@
+html {
+  font-size: 20px;
+  line-height: 1.6;
+  font-family: Roboto, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+main {
+  width: 100%;
+  max-width: 24rem;
+  margin: auto;
+}
+form {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: .5rem;
+}
+input {
+  width: 70%;
+}
+button {
+  width: 25%;
+  font-size: .9rem;
+}
+input,
+button {
+  padding: 0.5rem;
+}
+
+img{
+  width: 100%;
+}
